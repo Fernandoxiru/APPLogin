@@ -1,7 +1,7 @@
 # **AppLogin**
 
 ## 📱 Descrição
-o #AppLogin# tem como objetivo cadastrar e autenticar o usuário
+o *AppLogin* tem como objetivo cadastrar e autenticar o usuário
 
 ## 🔧 Funcionalidades
 - [x] Entrada de dados(nome, login, senha, e repetir senha)
