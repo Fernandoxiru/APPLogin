@@ -21,7 +21,8 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/Fernandoxiru/AppFolha_Pagamento.git
+    (https://github.com/Fernandoxiru/AppLogin
+)
     ```
 2. Abra o projeto no Android Studio.
 3. Compile e execute o projeto em um emulador ou dispositivo físico.
